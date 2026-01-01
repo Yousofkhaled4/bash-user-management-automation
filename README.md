@@ -75,10 +75,10 @@ This script:
 
 ### Step 1: Add Employees
 ```bash
-./add_employee.sh
+./data.sh
 
 Step 2: Create Linux Users (Run as root)
-sudo ./create_users.sh
+sudo ./user.sh
 
 Files Generated
 
